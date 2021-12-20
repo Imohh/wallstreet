@@ -3,6 +3,7 @@ import Link from "next/link";
 import CartSummary from "./CartSummary";
 import header from '../style/header.module.scss'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import Navbar from './Navbar'
 
 import LogoSVG from "../svg/logo.svg";
 

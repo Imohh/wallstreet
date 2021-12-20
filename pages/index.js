@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 import { commerce } from "../lib/commerce";
 
-import Header from "../components/Header";
+import Navbar from "../components/Navbar";
 import ProductList from "../components/ProductList";
 import ProductGrid from "../components/ProductGrid";
 
@@ -26,10 +26,22 @@ function IndexPage({ products }) {
       <Head>
         <title>ChopChop</title>
       </Head>
+      <Navbar />
+      <div className="container">
+        <div className="row">
+          <div className="col-lg-6">
+            <h2>Hey there</h2>
+          </div>
+          <div className="col-lg-6">
+            <h2>Hello there</h2>
+          </div>
+        </div>
+      </div>
+
       <div className="md:min-h-screen md:flex md:items-center">
         <div className="flex flex-col md:flex-row space-y-3 md:space-y-0 md:space-x-10">
           <div className="md:max-h-screen md:w-1/2 flex items-end justify-between md:sticky md:top-0">
-            <Header />
+            
 
             <motion.div
               className="md:py-12 hidden md:block md:sticky md:top-0"
