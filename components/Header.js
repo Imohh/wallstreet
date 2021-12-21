@@ -1,8 +1,6 @@
 import Link from "next/link";
 
 import CartSummary from "./CartSummary";
-import header from '../style/header.module.scss'
-import 'bootstrap/dist/css/bootstrap.min.css'
 
 import LogoSVG from "../svg/logo.svg";
 
@@ -21,7 +19,7 @@ function Header() {
             </div>
         </nav>*/}
 
-      <nav className="navbar navbar-light bg-light">
+      <nav className="navbar ">
         <div class="container-fluid">
           {/*<a class="navbar-brand">Navbar</a>*/}
           <Link href="/">
