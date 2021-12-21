@@ -3,7 +3,8 @@ import { motion } from "framer-motion";
 
 import { commerce } from "../lib/commerce";
 
-import Navbar from "../components/Navbar";
+import Header from "../components/Header";
+// simport Navbar from "../components/Navbar";
 import ProductList from "../components/ProductList";
 import ProductGrid from "../components/ProductGrid";
 
@@ -26,7 +27,8 @@ function IndexPage({ products }) {
       <Head>
         <title>Wallstreet Don</title>
       </Head>
-      <Navbar />
+      <Header />
+      {/*<Navbar />*/}
       <div className="container">
         <div className="row">
           <div className="col-lg-6">
