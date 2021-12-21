@@ -16,6 +16,7 @@ function Navbar() {
 		          </form>
 		        </div>
 		    </nav>
+		    <CartSummary />
 		</>
 	)
 }
