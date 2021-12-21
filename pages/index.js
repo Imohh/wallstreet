@@ -2,7 +2,7 @@ import Head from "next/head";
 import { motion } from "framer-motion";
 
 import { commerce } from "../lib/commerce";
-
+import LogoSVG from "../svg/logo.svg";
 import Header from "../components/Header";
 // simport Navbar from "../components/Navbar";
 import ProductList from "../components/ProductList";
