@@ -1,5 +1,6 @@
 import "react-toastify/dist/ReactToastify.css";
 import "tailwindcss/tailwind.css";
+import "../style/header.css"
 
 import { useEffect } from "react";
 import { AnimatePresence } from "framer-motion";

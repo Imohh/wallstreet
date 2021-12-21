@@ -1,4 +1,4 @@
-import header from '../style/header.module.scss'
+
 import 'bootstrap/dist/css/bootstrap.min.css'
 import React from 'react'
 
