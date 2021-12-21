@@ -1,4 +1,6 @@
-
+import Link from "next/link";
+import LogoSVG from "../svg/logo.svg";
+import CartSummary from "./CartSummary";
 import 'bootstrap/dist/css/bootstrap.min.css'
 import React from 'react'
 

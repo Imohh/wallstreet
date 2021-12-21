@@ -24,7 +24,7 @@ function IndexPage({ products }) {
   return (
     <>
       <Head>
-        <title>ChopChop</title>
+        <title>Wallstreet Don</title>
       </Head>
       <Navbar />
       <div className="container">
