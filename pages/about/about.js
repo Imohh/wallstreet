@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-export default function About() {
+export default function about() {
   return (
     <>
       <h1>About Post from about</h1>
