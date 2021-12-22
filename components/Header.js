@@ -4,6 +4,7 @@ import CartSummary from "./CartSummary";
 
 import LogoSVG from "../svg/logo.svg";
 
+
 function Header() {
   return (
     
@@ -19,7 +20,7 @@ function Header() {
             </div>
         </nav>*/}
 
-      <nav className="navbar ">
+      <nav className="navbar">
         <div class="container-fluid">
           {/*<a class="navbar-brand">Navbar</a>*/}
           <Link href="/">
