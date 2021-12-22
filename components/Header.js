@@ -28,6 +28,7 @@ function Header() {
               <LogoSVG className="w-full" />
             </a>
           </Link>
+          <Link href="/about"><a> About </a></Link>
 
           {/*<div className="py-3 lg:py-5 flex items-center">
             <Link href="/">
