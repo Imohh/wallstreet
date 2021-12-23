@@ -3,6 +3,7 @@ import Link from "next/link";
 import CartSummary from "./CartSummary";
 
 import LogoSVG from "../svg/logo.svg";
+import Image from "next/image"
 
 
 function Header() {
@@ -25,7 +26,8 @@ function Header() {
           {/*<a class="navbar-brand">Navbar</a>*/}
           <Link href="/">
             <a title="Return to ChopChop" class="navbar-brand">
-              <LogoSVG className="w-full" />
+              {/*<Logo className="w-full" />*/}
+              <img src={"wd-logo-2.png"} width={150} height={150} alt="logo"/>
             </a>
           </Link>
           <Link href={`/about/about`}><a>About</a></Link>
