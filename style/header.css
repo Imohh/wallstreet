@@ -13,10 +13,12 @@ body {
 .antialiased {
 	background: #000;
 	color: #fff;
-	width: 100%	;
+	width: 100%;
+	margin: 0;
 	padding: 0;
 }
 
 .footer-logo-bottom {
 	margin-top: 90px;
 }
+
