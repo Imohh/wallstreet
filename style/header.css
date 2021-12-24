@@ -30,6 +30,7 @@ body {
 
 
 /*BODY*/
+
 .home-page {
 	margin-top: 5%;
 }
@@ -43,35 +44,21 @@ body {
 }
 
 .welcome-text {
-	position: relative;
+	margin-top: 70%;
+}
+
+.home-btn {
+	background: red;
 }
 
 .wrapper {
   margin: 50px auto;
   width: 900px;
   height: 500px;
-  display: flex;
-  flex-direction: row;
   background-color: red;
   background-size: 100% 100%;
 }
-.wrapper .text-overlay {
-	position: absolute;
-    z-index: 500;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: stretch;
-}
-.wrapper .text-overlay .header {
-    width: calc(900px - 20px);
-    padding: 5px 10px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    color: white;
-}
+
 .wrapper .text-overlay .header #logo {
     font-size: 19px;
     font-family: sans-serif;
@@ -79,6 +66,14 @@ body {
     border: 2px solid white;
     padding: 5px 2px 5px 10px;
     margin-left: 10px;
+}
+
+.wrapper .btn {
+	background: #fff;
+	color: #000;
+	padding-left: 10%;
+	padding-right:10%;
+	border-radius: 0;
 }
 /*END OF BODY*/
 
