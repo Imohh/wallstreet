@@ -26,20 +26,10 @@ function IndexPage({ products }) {
   return (
     <>
       <Head>
-        <title>Wallstreet Don</title>
+        <title>Wallstreet Don - You are welcome!</title>
       </Head>
       <Header />
-      {/*<Navbar />*/}
-      <div className="container">
-        <div className="row">
-          <div className="col-lg-6">
-            <h2>Hey there</h2>
-          </div>
-          <div className="col-lg-6">
-            <h2>Hello there</h2>
-          </div>
-        </div>
-      </div>
+      
       <Body />
 
       {/*<div className="md:min-h-screen md:flex md:items-center">

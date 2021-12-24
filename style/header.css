@@ -1,3 +1,5 @@
+
+/*NAVBAR*/
 .navbar {
 	background: red;
 	color: #fff;
@@ -5,6 +7,7 @@
 	padding: 0;
 	margin: 0;
 }
+/*END OF NAVBAR*/
 
 body {
 	width: 100%;
@@ -22,3 +25,14 @@ body {
 	margin-top: 90px;
 }
 
+
+
+/*BODY*/
+.home-page {
+	margin-top: 5%;
+}
+
+.landing-page-img {
+	width: 100%;
+}
+/*END OF BODY*/
