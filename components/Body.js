@@ -35,7 +35,9 @@ function Body() {
       </div>
 
 
-      <div className="container home-page-intro">
+
+    {/*HR LINE*/}
+      <div className="container hr-line">
         <div className="row">
           <div className="col-lg-12">
 
