@@ -19,6 +19,29 @@ function Body() {
 
       {/*SECTION SECTION(PLAIN TEXT)*/}
 
+      <div className="container home-page-intro">
+        <div className="row">
+          <div className="col-lg-12">
+            <p>
+              If you want to skip calling the AJAX method from the 
+              backend and only call it from the frontend, you can 
+              test if the method calling from the frontend or the backend, 
+              If you want to skip calling the AJAX method from the 
+              backend and only call it from the frontend, you can 
+              test if the method calling from the frontend or the backend like so
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+      <div className="container home-page-intro">
+        <div className="row">
+          <div className="col-lg-12">
+
+          </div>
+        </div>
+      </div>
 
 
       </div>

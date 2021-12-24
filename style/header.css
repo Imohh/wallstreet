@@ -75,6 +75,23 @@ body {
 	padding-right:10%;
 	border-radius: 0;
 }
+
+
+/*second home page section text only*/
+.home-page-intro {
+	text-align: center;
+	margin-top: 10%;
+}
+
+.home-page-intro p {
+	width: 80%;
+	margin: 0 auto;
+}
+
+
+
+
+
 /*END OF BODY*/
 
 
