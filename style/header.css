@@ -37,4 +37,57 @@ body {
 .landing-page-img {
 	width: 100%;
 }
+
+.top-section {
+	display: flex;
+}
+
+.welcome-text {
+	position: relative;
+}
+
+.wrapper {
+  margin: 50px auto;
+  width: 900px;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  background-color: red;
+}
+.wrapper .text-overlay {
+	position: absolute;
+    z-index: 500;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+.wrapper .text-overlay .header {
+    width: calc(900px - 20px);
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.wrapper .text-overlay .header #logo {
+    font-size: 19px;
+    font-family: sans-serif;
+    letter-spacing: 0.5em;
+    border: 2px solid white;
+    padding: 5px 2px 5px 10px;
+    margin-left: 10px;
+}
 /*END OF BODY*/
+
+
+
+
+
+
+
+
+
+
+
