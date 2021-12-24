@@ -53,6 +53,7 @@ body {
   display: flex;
   flex-direction: row;
   background-color: red;
+  background-size: 100% 100%;
 }
 .wrapper .text-overlay {
 	position: absolute;
