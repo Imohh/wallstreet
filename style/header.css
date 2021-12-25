@@ -97,8 +97,19 @@ body {
 
 /*our journey*/
 
+.our-journey {
+	margin-top: 10%;
+}
 
+.our-journey h1 {
+	text-align: center;
+	margin-bottom: 5%;
+}
 
+.our-journey p {
+	width: 70%;
+	margin: 0 auto;
+}
 
 
 
