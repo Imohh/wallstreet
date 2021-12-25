@@ -36,7 +36,7 @@ function Body() {
 
 
 
-    {/*HR LINE*/}
+      {/*HR LINE*/}
       <div className="container hr-line">
         <div className="row">
           <div className="col-lg-12">
@@ -44,6 +44,44 @@ function Body() {
           </div>
         </div>
       </div>
+
+
+
+    {/*OUR JOURNEY*/}
+    <div className="container our-journey">
+      <div className="row">
+        <div className="col-lg-12">
+          <h1>our journey</h1>
+
+          <p>
+            If you want to skip calling the AJAX method from the 
+              backend and only call it from the frontend, you can 
+              test if the method calling from the frontend or the backend, 
+              If you want to skip calling the AJAX method from the 
+              backend and only call it from the frontend, you can 
+              test if the method calling from the frontend or the backe
+              If you want to skip calling the AJAX method from the 
+              backend and only call it from the frontend, you can 
+              test if the method calling from the frontend or the backend, 
+              If you want to skip calling the AJAX method from the 
+              backend and only call it from the frontend, you can 
+              test if the method calling from the frontend or the backe
+              If you want to skip calling the AJAX method from the 
+              backend and only call it from the frontend, you can 
+              test if the method calling from the frontend or the backend, 
+              If you want to skip calling the AJAX method from the 
+              backend and only call it from the frontend, you can 
+              test if the method calling from the frontend or the backe
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
 
 
       </div>
