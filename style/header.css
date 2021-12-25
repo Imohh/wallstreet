@@ -55,7 +55,6 @@ body {
   margin: 50px auto;
   width: 900px;
   height: 500px;
-  background-color: red;
   background-size: 100% 100%;
 }
 
@@ -118,7 +117,10 @@ body {
 	margin-top: 10%;
 }
 
-
+.below-products p {
+	width: 70%;
+	margin: 0 auto;
+}
 
 
 /*END OF BODY*/
