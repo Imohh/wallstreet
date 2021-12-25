@@ -78,6 +78,20 @@ function Body() {
     </div>
 
 
+    {/*PRODUCTS*/}
+
+
+    {/*LITTLE TEXT BELOW PRDUCTS*/}
+    <div className="container below-products">
+      <div className="row">
+        <div className="col-lg-12">
+          If you want to skip calling the AJAX method from the 
+          backend and only call it from the frontend, you can 
+          test if the method calling from the frontend or the backend, 
+          If you want to skip calling the AJAX method from the 
+        </div>
+      </div>
+    </div>
 
 
 
