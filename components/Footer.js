@@ -69,7 +69,7 @@ function Footer() {
       </div>
 
 
-      <div className="container">
+      <div className="container footer-section-top">
         <div className="row">
           <div className="col-lg-4">
             <ul>
@@ -101,7 +101,7 @@ function Footer() {
         <div className="row footer-logo-bottom">
           <div className="col-lg-12">
             <center>
-              <img src={"wd-logo-2.png"} height={150} width={150}/>
+              <img src={"wd-logo-2.png"} height={120} width={120}/>
             </center>
           </div>
         </div>
