@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Image from "next/image";
 import { motion } from "framer-motion";
 
 import { commerce } from "../lib/commerce";
@@ -27,6 +28,7 @@ function IndexPage({ products }) {
     <>
       <Head>
         <title>Wallstreet Don - You are welcome!</title>
+        <link rel="shortcut icon" href={"wd-logo.png"} />
       </Head>
       <Header />
       
