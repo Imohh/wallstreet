@@ -144,6 +144,14 @@ body {
 	padding-bottom: 5%;
 }
 
+.footer-section-top li {
+	color: #fff;
+	text-decoration: none;
+}
+
+.footer-section-top ul Link {
+	background: red;
+}
 
 
 

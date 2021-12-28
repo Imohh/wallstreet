@@ -22,9 +22,6 @@ function Body({ products }) {
   return (
     <>
 
-      <ProductList products={products} />
-
-
 
       <div className="home-page">
 
@@ -122,6 +119,7 @@ function Body({ products }) {
 
               <div className="pt-3">
                 <ProductList products={products} />
+                hello
               </div>
             </motion.div>
           </div>

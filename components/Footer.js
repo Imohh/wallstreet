@@ -73,8 +73,7 @@ function Footer() {
         <div className="row">
           <div className="col-lg-4">
             <ul>
-            <Link href={`/about/about`}><a>About</a></Link>
-              <Link href=""><a><li>All NFTs</li></a></Link>
+              <Link href="" style={{ textDecoration: 'none' }}><a><li>All NFTs</li></a></Link>
               <Link href=""><a><li>How It Works</li></a></Link>
               <Link href=""><a><li>Services</li></a></Link>
               <Link href=""><a><li>Orders & Shipping</li></a></Link>
