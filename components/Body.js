@@ -68,7 +68,7 @@ function Body({ products }) {
         {/*OUR JOURNEY*/}
         <div className="container our-journey">
           <div className="row">
-            <div className="col-lg-12">
+            <div className="col-lg-12 col-sm-12">
               <h1>our journey</h1>
 
               <p>

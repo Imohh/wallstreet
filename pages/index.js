@@ -28,7 +28,7 @@ function IndexPage({ products }) {
     <>
       <Head>
         <title>Wallstreet Don - You are welcome!</title>
-        <link rel="shortcut icon" href={"wd-logo.png"} />
+        <link rel="shortcut icon" href={"wd-logo.png"} sizes="16x16 32x32" />
       </Head>
       <Header />
       
