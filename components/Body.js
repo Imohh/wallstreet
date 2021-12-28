@@ -119,7 +119,6 @@ function Body({ products }) {
 
               <div className="pt-3">
                 <ProductList products={products} />
-                hello
               </div>
             </motion.div>
           </div>
