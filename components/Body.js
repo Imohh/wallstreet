@@ -22,7 +22,7 @@ function Body({ products }) {
   return (
     <>
 
-    
+      <ProductList products={products} />
 
 
 

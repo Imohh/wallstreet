@@ -73,26 +73,27 @@ function Footer() {
         <div className="row">
           <div className="col-lg-4">
             <ul>
-              <li>All NFTs</li>
-              <li>How It Works</li>
-              <li>Services</li>
-              <li>Orders & Shipping</li>
+            <Link href={`/about/about`}><a>About</a></Link>
+              <Link href=""><a><li>All NFTs</li></a></Link>
+              <Link href=""><a><li>How It Works</li></a></Link>
+              <Link href=""><a><li>Services</li></a></Link>
+              <Link href=""><a><li>Orders & Shipping</li></a></Link>
             </ul>
           </div>
 
           <div className="col-lg-4">
             <ul>
-              <li>All NFTs</li>
-              <li>Terms and Conditions</li>
-              <li>Privacy Policy</li>
-              <li>Gneral Conditions Of Purchase</li>
+              <Link href=""><a><li>All NFTs</li></a></Link>
+              <Link href=""><a><li>Terms and Conditions</li></a></Link>
+              <Link href=""><a><li>Privacy Policy</li></a></Link>
+              <Link href=""><a><li>Gneral Conditions Of Purchase</li></a></Link>
             </ul>
           </div>
 
           <div className="col-lg-4">
             <ul>
-              <li>FAQ</li>
-              <li>Contact Us</li>
+              <Link href=""><a><li>FAQ</li></a></Link>
+              <Link href=""><a><li>Contact Us</li></a></Link>
               <i className="fas fas-home"></i>
             </ul>
           </div>
