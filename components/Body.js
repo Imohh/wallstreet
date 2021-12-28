@@ -21,6 +21,11 @@ export async function getStaticProps() {
 function Body({ products }) {
   return (
     <>
+
+    
+
+
+
       <div className="home-page">
 
 
