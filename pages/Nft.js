@@ -25,10 +25,11 @@ export default function Nft() {
 
 				<div className="col-lg-6">
 
-					<div className="col-lg-4">
+					<div className="col-md-4">
+						<img src={"test-image.jpg"} />
 						<img src={"test-image.jpg"} />
 					</div>
-					<div className="col-lg-4">
+					<div className="col-md-4">
 						<img src={"test-image.jpg"} />
 					</div>
 					<div className="col-lg-6">
