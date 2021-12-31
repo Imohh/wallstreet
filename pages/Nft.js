@@ -13,8 +13,18 @@ function Nft() {
 
 					<div className="col-lg-6">
 
-					<img src={"test-image.jpg"} />
-
+						<div className="col-lg-4">
+							<img src={"test-image.jpg"} />
+						</div>
+						<div className="col-lg-4">
+							<img src={"test-image.jpg"} />
+						</div>
+						<div className="col-lg-6">
+							<img src={"test-image.jpg"} />
+						</div>
+						<div className="col-lg-6">
+							<img src={"test-image.jpg"} />
+						</div>
 					</div>
 				</div>
 			</div>
