@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 function Nft() {
 	return (
 
@@ -11,8 +13,8 @@ function Nft() {
 
 					<div className="col-lg-6">
 
-					
-					
+					<img src={"test-image.jpg"} />
+
 					</div>
 				</div>
 			</div>
