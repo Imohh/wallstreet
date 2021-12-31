@@ -135,17 +135,13 @@ body {
 .newsletter h2 {
 	text-transform: uppercase;
 }
-/*
-.newsletter-wrapper {
-	background: transparent;
-    box-shadow: 0 4px 20px -2px #e9e9e9;
-}*/
-
 input[name="newsletter"] {
+	margin-top: 20px;
     width: 450px;
     height: 40px;
     padding-right: 50px;
-    box-shadow: 0 4px 20px -2px #eee;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
 }
 
 input[type="submit"] {
