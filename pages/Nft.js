@@ -1,7 +1,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import Head from "next/head";
-import Header from "../../components/Header"
+import Header from "../components/Header"
 
 export default function Nft() {
   return (
@@ -11,7 +11,8 @@ export default function Nft() {
       </Head>
 
       <Header />
-      <div className="container">
+      <div className="first-nft-section">
+    	<div className="container">
 			<div className="row">
 				<div className="col-lg-6">
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
@@ -39,6 +40,8 @@ export default function Nft() {
 				</div>
 			</div>
 		</div>
+      </div>
+      
     </>
   )
 }
