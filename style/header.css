@@ -137,16 +137,17 @@ body {
 }
 
 input[name="newsletter"] {
-    width: 200px;
+    width: 250px;
     height: 40px;
     padding-right: 50px;
 }
 
 input[type="submit"] {
-    margin-left: -50px;
+    margin-left: -70px;
     height: 40px;
-    width: 50px;
+    width: 70px;
     color: #000;
+    background: transparent;
 }
 
 
