@@ -24,19 +24,19 @@ export default function Nft() {
 				</div>
 
 				<div className="col-lg-6">
-
-					<div className="col-md-4">
-						<img src={"test-image.jpg"} />
-						<img src={"test-image.jpg"} />
-					</div>
-					<div className="col-md-4">
-						<img src={"test-image.jpg"} />
-					</div>
-					<div className="col-lg-6">
-						<img src={"test-image.jpg"} />
-					</div>
-					<div className="col-lg-6">
-						<img src={"test-image.jpg"} />
+					<div className="row rows">
+						<div className="col-lg-6">
+							<img src={"test-image.jpg"} width={150} height={150} />
+						</div>
+						<div className="col-lg-6">
+							<img src={"test-image.jpg"} width={150} height={150} />
+						</div>
+						<div className="col-lg-6">
+							<img src={"test-image.jpg"} width={150} height={150} />
+						</div>
+						<div className="col-lg-6">
+							<img src={"test-image.jpg"} width={150} height={150} />
+						</div>
 					</div>
 				</div>
 			</div>
