@@ -41,7 +41,7 @@ export default function about() {
           </div>
         </div>
       </div>
-
+ 
       <div className="third-about-section">
         <div className="container">
           <div className="row">
