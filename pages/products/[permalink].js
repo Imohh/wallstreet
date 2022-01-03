@@ -109,16 +109,16 @@ function ProductPage({ product }) {
         <meta name="description" content={product.seo.description}></meta>
       </Head>
 
-      <div className="md:hidden">
-        <Header />
-      </div>
-
+      {/*<div className="md:hidden">
+        
+      </div>*/}
+      <Header />
       <div className="md:min-h-screen md:flex md:items-center">
         <div className="flex flex-col-reverse md:flex-row space-y-3 md:space-y-0 md:space-x-10">
           <div className="md:max-h-screen md:w-1/2 flex flex-col md:flex-row items-end justify-between md:sticky md:top-0">
-            <div className="hidden md:block">
+            {/*<div className="hidden md:block">
               <Header />
-            </div>
+            </div>*/}
             <motion.div
               className="py-6 md:py-12 sticky top-0"
               initial={{ opacity: 0, y: 50 }}
