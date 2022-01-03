@@ -179,3 +179,8 @@ input[type="submit"] {
 .first-nft-section {
 	margin-top: 5%;
 }
+
+.first-nft-section .first-container {
+	background: red;
+	margin: 0 auto;
+}
