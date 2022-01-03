@@ -14,9 +14,9 @@ export default function Nft() {
       
       {/*FORST SECTION*/}
       <div className="first-nft-section">
-	    	<div className="container first-container">
+	    	<div className="container">
 					<div className="row">
-						<div className="col-lg-6">
+						<div className="col-lg-6 first-container">
 							<h2>Welcome to walstreet don</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
 								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 

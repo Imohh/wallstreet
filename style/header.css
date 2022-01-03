@@ -178,9 +178,10 @@ input[type="submit"] {
 /*NFTs PAGE*/
 .first-nft-section {
 	margin-top: 5%;
+	margin-bottom: 5%;
 }
 
 .first-nft-section .first-container {
-	background: red;
-	margin: 0 auto;
+	margin-top: 10%;
+	height: 200px;
 }
