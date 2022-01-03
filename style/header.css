@@ -4,7 +4,7 @@ body {
 
 .antialiased {
 	background: #000;
-	color: #fff;
+	/*color: red;*/
 	width: 100%;
 	margin: 0;
 	padding: 0;
@@ -40,6 +40,7 @@ body {
 
 .welcome-text {
 	margin-top: 70%;
+	color: #fff;
 }
 
 .home-btn {
@@ -80,6 +81,7 @@ body {
 .home-page-intro p {
 	width: 80%;
 	margin: 0 auto;
+	color: #fff;
 }
 
 
@@ -98,11 +100,13 @@ body {
 .our-journey h1 {
 	text-align: center;
 	margin-bottom: 5%;
+	color: #fff;
 }
 
 .our-journey p {
 	width: 70%;
 	margin: 0 auto;
+	color: #fff;
 }
 
 
@@ -115,6 +119,7 @@ body {
 .below-products p {
 	width: 70%;
 	margin: 0 auto;
+	color: #fff;
 }
 
 
@@ -134,6 +139,7 @@ body {
 
 .newsletter h2 {
 	text-transform: uppercase;
+	color: #fff;
 }
 input[name="newsletter"] {
 	margin-top: 20px;
@@ -184,4 +190,19 @@ input[type="submit"] {
 .first-nft-section .first-container {
 	margin-top: 10%;
 	height: 200px;
+}
+
+
+
+/*PRODUCTT DETTAIL*/
+.product-name {
+	color: #fff;
+}
+ 
+.product-price {
+	color: #fff;
+}
+
+.product-description {
+	color: #fff;
 }
