@@ -229,6 +229,15 @@ input[type="submit"] {
 	text-transform: uppercase;
 }
 
+.forth-nft-section {
+	margin-bottom: 10%;
+}
+
+.forth-nft-section .forth-container {
+	margin-top: 10%;
+	height: 200px;
+}
+
 .forth-nft-section p {
 	color: #fff;
 }
