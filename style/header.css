@@ -172,7 +172,15 @@ input[type="submit"] {
 
 .footer-section-top li {
 	color: #fff;
+}
+
+.footer-section-top a {
+	background: red;
 	text-decoration: none;
+}
+
+.footer-section-top li:hover {
+	color: red;
 }
 
 .footer-section-top ul Link {
