@@ -13,7 +13,7 @@ A Next.js, Commerce.js, Stripe, and Vercel powered, open source storefront, cart
   <a href="https://commercejs.com">commercejs.com</a> | <a href="https://twitter.com/commercejs">@commercejs</a> | <a href="http://slack.commercejs.com">Slack</a>
   <br />
   <br />
-  <a href="https://commercejs-chopchop-demo.vercel.app">
+  <a href="https://wallstreet-ebon.vercel.app/">
     <img src="https://cdn.chec.io/email/assets/marketing/chec-demo-btn_gray.svg" alt="View demo" />
   </a>
   <br />
@@ -25,10 +25,10 @@ A Next.js, Commerce.js, Stripe, and Vercel powered, open source storefront, cart
 
 ## Introduction
 
-ChopChop is our beautifully designed, elegantly developed demo store and starter kit that sells fine tools for thoughtful cooks. We’ve created a premium brand with a commerce experience to match. Read more about this resource on the [Commerce.js blog](https://commercejs.com/blog/chopchop-nextjs-starter-commerce/).
+Wallstreet Don is our beautifully designed, elegantly developed demo store and starter kit that sells fine tools for thoughtful cooks. We’ve created a premium brand with a commerce experience to match. Read more about this resource on the [Commerce.js blog](https://commercejs.com/blog/chopchop-nextjs-starter-commerce/).
 
 
-## 🥞 ChopChop Stack
+## 🥞 Wallstreet Don Stack
 
 * [Next.js](https://nextjs.org/)
 * [Commerce.js](https://commercejs.com)
