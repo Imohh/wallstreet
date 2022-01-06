@@ -16,7 +16,7 @@ export default function Nft() {
       <div className="first-nft-section">
 	    	<div className="container">
 					<div className="row">
-						<div className="col-lg-6 first-container">
+						<div className="col-lg-6 col-md-6 first-container">
 							<h2>Welcome to walstreet don</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
 								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
@@ -28,16 +28,16 @@ export default function Nft() {
 
 						<div className="col-lg-6">
 							<div className="row rows">
-								<div className="col-lg-6">
+								<div className="col-lg-6 col-md-6 col-sm-6">
 									<img src={"test-image.jpg"} width={150} height={150} />
 								</div>
-								<div className="col-lg-6">
+								<div className="col-lg-6 col-md-6 col-sm-6">
 									<img src={"test-image.jpg"} width={150} height={150} />
 								</div>
-								<div className="col-lg-6">
+								<div className="col-lg-6 col-md-6 col-sm-6">
 									<img src={"test-image.jpg"} width={150} height={150} />
 								</div>
-								<div className="col-lg-6">
+								<div className="col-lg-6 col-md-6 col-sm-6">
 									<img src={"test-image.jpg"} width={150} height={150} />
 								</div>
 							</div>
@@ -51,11 +51,11 @@ export default function Nft() {
 	  	<div className="second-nft-section">
 	    	<div className="container">
 					<div className="row">
-						<div className="col-lg-6">
+						<div className="col-lg-6 col-md-6">
 							<img src={"test-image.jpg"} />
 						</div>
 
-						<div className="col-lg-6 second-container">
+						<div className="col-lg-6 col-md-6 second-container">
 							<h2>Welcome to walstreet don</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
 								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 
@@ -101,16 +101,16 @@ export default function Nft() {
 
 						<div className="col-lg-6">
 							<div className="row rows">
-								<div className="col-lg-6">
+								<div className="col-lg-6 col-sm-6">
 									<img src={"test-image.jpg"} width={150} height={150} />
 								</div>
-								<div className="col-lg-6">
+								<div className="col-lg-6 col-sm-6">
 									<img src={"test-image.jpg"} width={150} height={150} />
 								</div>
-								<div className="col-lg-6">
+								<div className="col-lg-6 col-sm-6">
 									<img src={"test-image.jpg"} width={150} height={150} />
 								</div>
-								<div className="col-lg-6">
+								<div className="col-lg-6 col-sm-6">
 									<img src={"test-image.jpg"} width={150} height={150} />
 								</div>
 							</div>

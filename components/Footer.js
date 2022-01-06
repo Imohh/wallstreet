@@ -71,7 +71,7 @@ function Footer() {
 
       <div className="container footer-section-top">
         <div className="row">
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-6">
             <ul>
               <Link href={`/Nft`} style={{ textDecoration: 'none' }}><a><li>All NFTs</li></a></Link>
               <Link href=""><a><li>How It Works</li></a></Link>
@@ -80,7 +80,7 @@ function Footer() {
             </ul>
           </div>
 
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-6">
             <ul>
               <Link href=""><a><li>All NFTs</li></a></Link>
               <Link href=""><a><li>Terms and Conditions</li></a></Link>
@@ -89,7 +89,7 @@ function Footer() {
             </ul>
           </div>
 
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-6">
             <ul>
               <Link href=""><a><li>FAQ</li></a></Link>
               <Link href=""><a><li>Contact Us</li></a></Link>
