@@ -19,7 +19,7 @@ export default function about() {
               <img src={"test-image.jpg"} />
             </div>
 
-            <div className="col-lg-6">
+            <div className="col-lg-6 first-container">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
               </p>
@@ -31,7 +31,7 @@ export default function about() {
       <div className="second-about-section">
         <div className="container">
           <div className="row">
-            <div className="col-lg-6">
+            <div className="col-lg-6 second-container">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
               </p>
@@ -51,7 +51,7 @@ export default function about() {
               <img src={"test-image.jpg"} />
             </div>
 
-            <div className="col-lg-6">
+            <div className="col-lg-6 third-container">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
               </p>

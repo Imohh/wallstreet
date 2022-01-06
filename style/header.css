@@ -267,12 +267,40 @@ input[type="submit"] {
 
 
 /*ABOUT PAGGE*/
+.first-about-section {
+	margin-top: 5%;
+}
+
+.first-about-section .first-container {
+	margin-top: 25%;
+	height: 200px;
+}
+
 .first-about-section p {
 	color: #fff;
 }
 
+.second-about-section {
+	margin-top: 5%;
+}
+
+.second-about-section .second-container {
+	margin-top: 25%;
+	height: 200px;
+}
+
 .second-about-section p {
 	color: #fff;
+}
+
+.third-about-section {
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+
+.third-about-section .third-container {
+	margin-top: 25%;
+	height: 200px;
 }
 
 .third-about-section p {
