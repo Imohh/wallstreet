@@ -187,12 +187,22 @@ input[type="submit"] {
 	margin-bottom: 5%;
 }
 
+.first-nft-section .first-container {
+	margin-top: 10%;
+	height: 200px;
+}
+
 .first-nft-section p {
 	color: #fff;
 }
 
 .first-nft-section h2 {
 	color: #fff;
+}
+
+.second-nft-section .second-container {
+	margin-top: 20%;
+	height: 200px;
 }
 
 .second-nft-section p {
@@ -224,10 +234,7 @@ input[type="submit"] {
 	color: #fff;
 }
 
-.first-nft-section .first-container {
-	margin-top: 10%;
-	height: 200px;
-}
+
 
 
 
