@@ -20,8 +20,9 @@ export default function about() {
             </div>
 
             <div className="col-lg-6">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+              </p>
             </div>
           </div>
         </div>
@@ -31,8 +32,9 @@ export default function about() {
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+              </p>
             </div>
             <div className="col-lg-6">
               <img src={"test-image.jpg"} />
@@ -50,8 +52,9 @@ export default function about() {
             </div>
 
             <div className="col-lg-6">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+              </p>
             </div>
           </div>
         </div>
