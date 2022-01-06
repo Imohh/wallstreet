@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "chopchop",
+  "name": "wallstreet",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
