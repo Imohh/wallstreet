@@ -38,7 +38,7 @@ Wallstreet Don is our beautifully designed, elegantly developed demo store and s
 
 ## Live demo
 
-Check out https://commercejs-chopchop-demo.vercel.app to see this project in action.
+Check out https://wallstreet-ebon.vercel.app/ to see this project in action.
 
 ## Getting started
 
