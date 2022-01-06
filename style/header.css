@@ -194,7 +194,7 @@ input[type="submit"] {
 
 
 
-/*PRODUCTT DETTAIL*/
+/*PRODUCT DETAIL*/
 .product-name {
 	color: #fff;
 }
@@ -204,5 +204,12 @@ input[type="submit"] {
 }
 
 .product-description {
+	color: #fff;
+}
+
+
+
+/*ABOUT PAGGE*/
+.first-about-section p {
 	color: #fff;
 }
