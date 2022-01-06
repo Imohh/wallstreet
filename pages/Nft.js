@@ -89,7 +89,7 @@ export default function Nft() {
 	  <div className="forth-nft-section">
 	    	<div className="container">
 					<div className="row">
-						<div className="col-lg-6">
+						<div className="col-lg-6 forth-container">
 							<h2>the team</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
 								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex 

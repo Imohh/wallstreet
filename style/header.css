@@ -198,6 +198,7 @@ input[type="submit"] {
 
 .first-nft-section h2 {
 	color: #fff;
+	text-transform: uppercase;
 }
 
 .second-nft-section .second-container {
@@ -211,6 +212,7 @@ input[type="submit"] {
 
 .second-nft-section h2 {
 	color: #fff;
+	text-transform: uppercase;
 }
 
 .third-nft-section {
@@ -224,6 +226,7 @@ input[type="submit"] {
 
 .third-nft-section h1 {
 	color: #fff;
+	text-transform: uppercase;
 }
 
 .forth-nft-section p {
@@ -232,6 +235,7 @@ input[type="submit"] {
 
 .forth-nft-section h2 {
 	color: #fff;
+	text-transform: uppercase;
 }
 
 
