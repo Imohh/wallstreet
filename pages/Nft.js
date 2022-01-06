@@ -86,7 +86,7 @@ export default function Nft() {
 	     </div>
 
 	   {/*FIFTH SECTION*/}
-	  <div className="first-nft-section">
+	  <div className="forth-nft-section">
 	    	<div className="container">
 					<div className="row">
 						<div className="col-lg-6">
