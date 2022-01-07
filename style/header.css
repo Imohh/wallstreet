@@ -18,6 +18,30 @@ body {
 	padding: 0;
 	margin: 0;
 }
+
+.navbar .navigation li {
+	display: inline-block;
+    float: none;
+}
+
+.navigation {
+  list-style-type: none;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navigation li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding-right: 96px;
+  padding-left: 96px;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
 /*END OF NAVBAR*/
 
 
@@ -315,53 +339,3 @@ input[type="submit"] {
 }
 
 
-
-/*new header css*/
-/*header[role="banner"] #logo-main {   
-    display: block;
-    margin: 20px auto;
-}
-
-#navbar-primary.navbar-default {
-  background: red;
-  border: none;
-}
-
-#navbar-primary.navbar-default .navbar-nav { 
-    width: 100%;
-    text-align: center;
-}
-
-#navbar-primary.navbar-default .navbar-nav li {
-    display: inline-block;
-    float: none;
-}
-
-#navbar-primary.navbar-default .navbar-nav li a {
-    padding-left: 30px;
-    padding-right: 30px;
-}*/
-
-.navbar .navigation li {
-	display: inline-block;
-    float: none;
-}
-
-.navigation {
-  list-style-type: none;
-  margin: auto;
-  width: 100%;
-  text-align: center;
-  padding: 0;
-  overflow: hidden;
-}
-
-.navigation li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding-right: 96px;
-  padding-left: 96px;
-  padding-bottom: 20px;
-  text-decoration: none;
-}

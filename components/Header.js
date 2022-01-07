@@ -5,8 +5,12 @@ import CartSummary from "./CartSummary";
 import LogoSVG from "../svg/logo.svg";
 import Image from "next/image"
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+
 
 function Header() {
+  const element = <FontAwesomeIcon icon={faCoffee} />
   return (
     
     <>
@@ -50,7 +54,8 @@ function Header() {
           <li><Link href={`/about`}><a>About</a></Link></li>
           <li><Link href={`/about`}><a>About</a></Link></li>
         </ul>
-        
+
+
 
       </nav>
     </>
