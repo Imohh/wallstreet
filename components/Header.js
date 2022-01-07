@@ -30,7 +30,6 @@ function Header() {
               <img src={"wd-logo-2.png"} width={150} height={150} alt="logo"/>
             </a>
           </Link>
-          <Link href={`/about`}><a>About</a></Link>
 
           {/*<div className="py-3 lg:py-5 flex items-center">
             <Link href="/">
@@ -46,6 +45,11 @@ function Header() {
           {/*</div>*/}
         </div>
 
+        <ul className="navigation">
+          <li><Link href={`/about`}><a>About</a></Link></li>
+          <li><Link href={`/about`}><a>About</a></Link></li>
+          <li><Link href={`/about`}><a>About</a></Link></li>
+        </ul>
         
 
       </nav>
