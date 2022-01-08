@@ -31,7 +31,7 @@ function Header() {
           <Link href="/">
             <a title="Return to ChopChop" class="navbar-brand">
               {/*<Logo className="w-full" />*/}
-              <img src={"wd-logo-2.png"} width={150} height={150} alt="logo"/>
+              <img src={"wd-logo-2.png"} width={100} height={100} alt="logo"/>
             </a>
           </Link>
 
