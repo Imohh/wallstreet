@@ -123,7 +123,7 @@ function Body({ products }) {
                 </motion.div>
               </div>*/}
 
-              <motion.div
+              {/*<motion.div
                 className="md:min-h-screen py-6 md:py-12 flex items-center md:w-1/2 md:z-40"
                 initial={{ opacity: 0, y: 50 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -133,7 +133,7 @@ function Body({ products }) {
                   products={products}
                   className="h-112 md:h-96 xl:h-112"
                 />
-              </motion.div>
+              </motion.div>*/}
             </div>
           </div>
 
