@@ -29,7 +29,7 @@
     "react-hook-form": "6.11.5",
     "react-toastify": "6.1.0",
     "sass": "^1.45.0",
-    "stripe": "^8.194.0",
+    "stripe": "^8.195.0",
     "use-debounce": "^7.0.0"
   },
   "devDependencies": {
