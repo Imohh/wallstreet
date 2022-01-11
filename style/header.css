@@ -302,16 +302,23 @@ input[type="submit"] {
 
 .text-container {
 	width: 100%;
+	text-decoration: none;
 }
 
 .product-detail-name {
 	color: #fff;
 	text-decoration: none;
+	width: 100%;
+	background: red;
+	float: left;
 }
 
 .product-detail-price {
 	color: #fff;
 	float: right;
+	width: 100%;
+	text-align: center;
+	background: green;
 }
 
 
