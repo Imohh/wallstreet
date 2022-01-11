@@ -284,6 +284,10 @@ input[type="submit"] {
 
 
 /*PRODUCT DETAIL*/
+.product-detail-container {
+	padding-left: 90px;
+}
+
 .product-name {
 	color: #fff;
 }
@@ -296,8 +300,19 @@ input[type="submit"] {
 	color: #fff;
 }
 
+.text-container {
+	background: green;
+	width: 100%;
+}
 
+.product-detail-name {
+	color: #fff;
+	text-decoration: none;
+}
 
+.product-detail-price {
+	
+}
 
 
 /*ABOUT PAGGE*/
