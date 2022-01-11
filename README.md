@@ -13,7 +13,7 @@ A Next.js, Commerce.js, Stripe, and Vercel powered, open source storefront, cart
   <a href="https://commercejs.com">commercejs.com</a> | <a href="https://twitter.com/commercejs">@commercejs</a> | <a href="http://slack.commercejs.com">Slack</a>
   <br />
   <br />
-  <a href="https://wallstreet-ebon.vercel.app/">
+  <a href="https://wallstreet-theta.vercel.app/">
     <img src="https://cdn.chec.io/email/assets/marketing/chec-demo-btn_gray.svg" alt="View demo" />
   </a>
   <br />
