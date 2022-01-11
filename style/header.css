@@ -310,7 +310,6 @@ input[type="submit"] {
 	text-decoration: none;
 	text-align: center;
 	width: 100%;
-	background: red;
 	float: left;
 }
 
@@ -319,7 +318,6 @@ input[type="submit"] {
 	float: right;
 	width: 100%;
 	text-align: center;
-	background: green;
 }
 
 
