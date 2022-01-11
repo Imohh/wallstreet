@@ -301,7 +301,6 @@ input[type="submit"] {
 }
 
 .text-container {
-	background: green;
 	width: 100%;
 }
 
@@ -311,7 +310,8 @@ input[type="submit"] {
 }
 
 .product-detail-price {
-	
+	color: #fff;
+	float: right;
 }
 
 
