@@ -9,20 +9,6 @@ function ProductGrid({ products, ...props }) {
          <Product key={product.id} {...product} {...props} />
        ))}
      </div>
-
-
-
-    //<>
-    //<div className="container">
-    //  <div className="row">
-    //    <div className="col-lg-4">
-    //      {products.map((product) => (
-    //        <Product key={product.id} {...product} {...props} />
-    //       ))}
-    //    </div>
-    //  </div>
-    //</div>
-    //</>
   );
 }
 
