@@ -308,6 +308,7 @@ input[type="submit"] {
 .product-detail-name {
 	color: #fff;
 	text-decoration: none;
+	text-align: center;
 	width: 100%;
 	background: red;
 	float: left;
