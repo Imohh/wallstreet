@@ -360,3 +360,27 @@ input[type="submit"] {
 }
 
 
+
+
+
+/*NEWSLETTER MAILCHIMP*/
+.details {
+  font-size: 1rem;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.input {
+  padding: 2px 4px;
+  margin-right: 1rem;
+}
+
+.errorMsg {
+  color: red;
+  font-weight: bold;
+}
+
+.successMsg {
+  color: blue;
+  font-weight: bold;
+}
