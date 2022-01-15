@@ -60,7 +60,7 @@ function Body({ products }) {
         <div className="container hr-line">
           <div className="row">
             <div className="col-lg-12">
-              hr line
+              
             </div>
           </div>
         </div>
