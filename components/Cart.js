@@ -29,11 +29,17 @@ export default function Cart() {
             </div>
             <div>
               <Button
-                className="appearance-none leading-none p-1 md:p-1.5 lg:px-3.5 text-lg md:text-xl"
-                onClick={showCheckout}
-              >
-                Check Out
-              </Button>
+                 className="appearance-none leading-none p-1 md:p-1.5 lg:px-3.5 text-lg md:text-xl"
+                 onClick={showCheckout}
+               >
+                 Check Out
+              </Button> 
+
+
+
+
+
+
             </div>
           </>
         )}
