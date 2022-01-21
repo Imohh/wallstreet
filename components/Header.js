@@ -25,39 +25,27 @@ function Header() {
             </div>
         </nav>*/}
 
-      <nav className="navbar">
-        <div class="container-fluid">
-          {/*<a class="navbar-brand">Navbar</a>*/}
-          <Link href="/">
-            <a title="Return to ChopChop" class="navbar-brand">
-              {/*<Logo className="w-full" />*/}
-              <img src={"wd-logo-2.png"} width={100} height={100} alt="logo"/>
-            </a>
-          </Link>
+      
 
-          {/*<div className="py-3 lg:py-5 flex items-center">
-            <Link href="/">
-              <a title="Return to ChopChop">Shop</a>
-            </Link>
-            <span className="pr-1">,</span>
-            hey there*/}
-            <form class="d-flex">
-              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-              <button class="btn btn-outline-success" type="submit">Search</button>
-            </form>
-            <CartSummary />
-          {/*</div>*/}
+
+      <header id="header">
+        <img src="https://res.cloudinary.com/ahmedagadir/image/upload/v1530726627/product-landing-page/logo.jpg" alt="OnePlus logo" id="header-img" />
+        <h1>OnePlus 6</h1>
+        <div className="user-details">
+          <span><i className="fa fa-user"></i></span>
+          <span><i className="fa fa-shopping-bag"></i></span>
+          <span>🇬🇧</span>
         </div>
+        <nav id="nav-bar">
+          <ul>
+            <li><a className="nav-link" href="#speed">speed</a></li>
+            <li><a className="nav-link" href="#display">display</a></li>
+            <li><a className="nav-link" href="#camera">camera</a></li>
+          </ul>
+          
+        </nav>
+      </header>
 
-        <ul className="navigation">
-          <li><Link href={`/about`}><a>About</a></Link></li>
-          <li><Link href={`/about`}><a>About</a></Link></li>
-          <li><Link href={`/about`}><a>About</a></Link></li>
-        </ul>
-
-
-
-      </nav>
     </>
     
   );
