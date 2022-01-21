@@ -6,11 +6,11 @@ import LogoSVG from "../svg/logo.svg";
 import Image from "next/image"
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import { faShoppingBag } from '@fortawesome/free-solid-svg-icons'
 
 
 function Header() {
-  const element = <FontAwesomeIcon icon={faCoffee} />
+  const element = <FontAwesomeIcon icon={faShoppingBag} />
   return (
     
     <>
@@ -41,6 +41,7 @@ function Header() {
             <li><a className="nav-link" href="#speed">speed</a></li>
             <li><a className="nav-link" href="#display">display</a></li>
             <li><a className="nav-link" href="#camera">camera</a></li>
+            <FontAwesomeIcon icon={faShoppingBag} />
           </ul>
           
         </nav>
