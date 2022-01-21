@@ -34,7 +34,7 @@ function Header() {
         <div className="user-details">
           <span><i className="fa fa-user"></i></span>
           <span><i className="fa fa-shopping-bag"></i></span>
-          <FontAwesomeIcon size = '10x' icon={faShoppingBag} />
+          {/*<FontAwesomeIcon size = '10x' icon={faShoppingBag} />*/}
           <span>🇬🇧</span>
         </div>
         <nav id="nav-bar">
