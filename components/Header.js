@@ -34,6 +34,7 @@ function Header() {
         <div className="user-details">
           <span><i className="fa fa-user"></i></span>
           <span><i className="fa fa-shopping-bag"></i></span>
+          <FontAwesomeIcon size = '10x' icon={faShoppingBag} />
           <span>🇬🇧</span>
         </div>
         <nav id="nav-bar">
@@ -41,7 +42,6 @@ function Header() {
             <li><a className="nav-link" href="#speed">speed</a></li>
             <li><a className="nav-link" href="#display">display</a></li>
             <li><a className="nav-link" href="#camera">camera</a></li>
-            <FontAwesomeIcon icon={faShoppingBag} />
           </ul>
           
         </nav>
