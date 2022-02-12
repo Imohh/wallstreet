@@ -16,9 +16,7 @@ A Next.js, Commerce.js, Stripe, and Vercel powered, open source storefront, cart
   </a>
   <br />
   <br />
-  <a href="https://commercejs-chopchop-demo.vercel.app">
-    <img src="https://images.ctfassets.net/u77gi3ejnmxq/60D21gkBJHgH9YI3bizA3Q/c81183ac0cccb0ece6547da5021dc8b9/Group_558.png" alt="View demo" width="600" />
-  </a>
+  
 </p>
 
 ## Introduction
