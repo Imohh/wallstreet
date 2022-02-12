@@ -21,7 +21,7 @@ A Next.js, Commerce.js, Stripe, and Vercel powered, open source storefront, cart
 
 ## Introduction
 
-Wallstreet Don is our beautifully designed, elegantly developed demo store and starter kit that sells fine tools for thoughtful cooks. We’ve created a premium brand with a commerce experience to match. Read more about this resource on the [Commerce.js blog](https://commercejs.com/blog/chopchop-nextjs-starter-commerce/).
+Wallstreet Don is an NFT webaite where we introduce people to our community and keep them up to date with our latest develipments
 
 
 ## 🥞 Wallstreet Don Stack
