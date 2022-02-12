@@ -21,7 +21,7 @@ A Next.js, Commerce.js, Stripe, and Vercel powered, open source storefront, cart
 
 ## Introduction
 
-Wallstreet Don is an NFT webaite where we introduce people to our community and keep them up to date with our latest develipments
+Wallstreet Don is an NFT website where we introduce people to our community and keep them up to date with our latest developments
 
 
 ## 🥞 Wallstreet Don Stack
